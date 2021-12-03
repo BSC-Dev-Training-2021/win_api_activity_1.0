@@ -13,6 +13,7 @@ body{
 	}
 	input{
 		background-color: orange;
+		font-color: orange;
 	}
 	.activity{
 		font-size: 30px;

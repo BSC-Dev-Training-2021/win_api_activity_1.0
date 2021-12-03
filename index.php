@@ -30,8 +30,10 @@
 		</div>
 		<button name="save_btn" type="submit" class="btn btn-warning"> create	</button>
 	</form>
+	<br>
+	<p>You find ways!</p>
 </div>
-<p>You find ways!</p>
+
 </center>
 </body>
 </html>
